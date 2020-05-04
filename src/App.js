@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Logo from './Logo.js'
 import './App.css'
 import lscache from 'lscache'
-import dummyData from './dummyData'
 import Card from './Card/Card.js'
 import Search from './Search/Search.js'
 
